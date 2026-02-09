@@ -1,0 +1,528 @@
+name;description
+ReferenciaCartoesBCPFree;20002984
+I_NomeBenef_111TC;11111TC94552
+I_IBAN_159;159
+A_Beneficiario_1Benef;
+A_IBAN_45477166594;
+I_PagarCartao_10;10
+I_IBAN_AT751;AT751400017910040596
+I_Benef;Benef
+I_Montante_5virg50;5,5
+A_AtivarGerir;nome operação favorita
+A_NumeroWTF;usar com 5euros
+A_Montante5Euros;
+A_AtivarGerir1;usado para editar ativar gerir
+A_NumeroWTF_1;
+I_NumeroDias_10;10
+I_NISS_10294575765;10294575765
+I_NISS_11322616811;11322616811
+I_Montante_5virg67;5,67
+I_IBAN_195;195
+I_AutomationVariasVezes;AutomationAutomationAutomation
+I_1234567890;1234567890
+A_Montante1500;
+I_IBAN_PT50003500000000000019526;PT50003500000000000019526
+A_000012;
+I_IBAN_PT50001000003774094000105;PT50001000003774094000105
+A_Campo_preenchimento_obrigatorio;
+A_montante_0;
+A_IBAN_containvalida;
+A_montantesuperior_0EUR;
+A_Telemovel_invalido;
+A_email_invalido;
+A_Telemovel_Errado;
+I_CodigoAutorizacao_1111111;1111111
+I_NomeBenef_0000;0
+I_IBAN_PT50001800031606386902015;PT50001800031606386902015
+I_NomeBenef_Benef;Benef
+I_Descritivo;descritivo
+I_Montante_14;14
+I_NaoFunciona;NaoFunciona
+I_Montante_50;50
+I_NomeBenef_Teste;teste
+I_Montante_2500;2500
+A_benef_00000TC137029;
+A_IBAN_exemplo;
+I_Zero;0
+I_ErroIBAN;IBAN ou conta de destino inválida. 
+I_Telemovel_Zeros;0
+A_NomeUserBBC;Label BBC para escolha contacto
+A_Montante10;valor 10
+A_NomeCartao_MBNET;teste123
+A_Benef_0000TC137221;
+A_bcp;
+I_Montante_1050;1050
+I_Montante_100;100
+I_CodigoIRS;1,23E+11
+I_NIF_189393327;189393327
+A_IBAN_SEPA;
+A_Benef_TC137427;
+I_ValorAlterarLimiteCredito550;550
+I_RegistoMtrad04;mtrad04
+I_User_BBC7092418;BBC7092418
+I_RegistoCodAutErrado;´º´º1!>!≤@±±±
+A_CodigoAutorizacao;1234567
+I_MontantePedirDinheiroMBWay_5Euros;500
+A_CodAutorizacao_Registo;9999999
+A_nomeBenef_Descartavel;
+A_NomeUser_Registo_TC138059;User a ser usado no tc138059 - fazer um registo - RMTM740490
+I_Telemovel_Meo;965507898
+I_Montante_8virg50;8,5
+A_NomeUserVMBM;Label VMBM para escolha nos contactos
+I_Telemovel_Nos;931085136
+I_Telemovel_Vodafone;911111111
+A_Tel_MEO;968074243
+A_Montante10Euros;1000
+A_Tel_NOS;
+A_Tel_Vodafone;
+A_montante_7Euros50;
+A_Tel_NOS_Escolas;
+A_Referencia_ViaCard;888888888
+A_Montante1000;1000€ 
+A_Ref_Estado;
+I_Telemovel_NOSEscolaDigital;932912456
+A_Montante100;10000
+I_RefViacard;888888888
+I_Referecia_EstadoJudiciais;5,14E+14
+I_Montante_12;12
+I_PagarServicos_Entidade;10620
+I_PagarServicos_Referencia;23456751
+I_Montante_5;5
+a_Entidade_Servicos;
+A_Ref_Servicos;
+A_DiaParaAlterarPagemento;Valor 12
+A_PercentagemAlterarPagemento;25%
+I_NomeCartaoCompraUnica_Teste;teste
+I_ValorAlterarLimiteMBNET_1000;1000
+I_NomeCartaoDebito_Nome;Nome
+A_IBAN_exemplo2;
+A_IBAN_OIC;
+A_0000TC163697;0000TC163697
+A_OpenAplication_ID_APP_SAUCELABS;ID APP para acesso saucelabs -01146af9-f115-415d-9a79-b290bcfe4296
+I_ID_App_Saucelabs;ed10ee82-cee2-4c74-96f6-ca3fd44d8a98
+A_Percentagem3;
+I_PagarCartao_1;1
+I_Dia3;3
+I_Valor10InputMontanteWU;10
+I_ValorErradoNomeProprioWU_1000;1000
+i_Montante_2550;2550
+I_Montante_500;500
+I_NumConta_45477166594;45477166594
+I_Conta_6380485273;6380485273
+I_Coord_MenuContextual_DMM_CreditMutuel;335:295
+I_Coordenada_Desassocia_PT;
+A_IBAN_195;
+I_AppName;pt.millenniumbcp.millenniumbcpenter
+A_Texto_WTF;
+I_SigningId;4W9NZL6J87
+I_ActivityPath;/Users/noesis/Desktop/Millennium.ipa
+I_Coord_InputValorCartao;160:300
+I_NIF_286757052;286757052
+A_AutomationVariasVezes_Erro;
+I_Coord_FotoNaGaleria;59:300
+A_00000TC95526;
+A_12345;
+A_Montante1;Valor: 100
+A_Valor123456789;
+I_2500_Virgula;2,5
+I_2550_Virgula;2,55
+A_InsiraMontanteSuperior0EUR;
+A_lbl_Beneficiario;
+A_lbl_Montante;
+A_lbl_DescritivoParaContaDestino;
+i_NewTAEG;New TAEG
+A_lbl_IBAN_ou_Conta_Millennium_bcp;
+I_7virg50;7,5
+i_7virg50_EUR;7,50 EUR
+I_Telemovel_EscolaDigital;924159477
+I_Montante_6;6
+I_6virg00_EUR;6,00 EUR
+A_OK;
+A_Valor5;
+A_NISS_10294575765_ComEspacos;
+A_valor40;
+I_REF_999999999;999999999
+I_20virg00_EUR;20,00 EUR
+I_REF_EstadoJudiciais_514099000002044;5,14E+14
+A_NISS_11290606979;
+A_NISS_11290606979_ComEspacos;
+I_EstadoJudiciais_Disclaimer_1_EN;1. The final payment date is determined by the creditor
+I_EstadoJudiciais_Disclaimer_2_EN;2. This payment is subject to validation. We cannot be held accountable 
+I_OperationNoCosts;This operation has no costs
+I_Montante_20;20
+I_EstadoJudiciais_Disclaimer_3_EN;3. Due to limitations of the Multibanco system...
+I_PagarServicos_Referencia_120056714;120056714
+I_5virg00_EUR;5
+A_Valor_Portugal;Portugal
+A_Valor_Portu;Portu
+A_lbl_TaxaCambio;Taxa de câmbio
+A_lbl_TotalDebitar;Total a debitar
+A_Valor_Hastag;#
+A_Valor_Bruno;Bruno
+I_0_EUR;0 EUR
+I_Montante_800;800
+I_EUR;EUR
+I_Montante_10;10
+I_Montante_0;0
+I_12_months;12 months
+A_Valor_TelePessoal;Tele Pessoal
+A_IBAN_001800031606423002020;1,80E+18
+i_CardTest;CardTest
+I_Montante_1000;1000
+I_Montante_1;1
+A_IBAN_123456789012345;1,23E+14
+A_IBAN_026903120020204517261;2,69E+19
+A_IBAN_PT500269031200202045172611;PT500269031200202045172611
+A_Valor_TudoConta;Tudo Conta
+A_ValorNum1;1
+A_Valor_RuiVelosos;Rui Velososs
+A_Valor1222;1222
+I_OperacaoTemUmCustoDe;Esta operação tem um custo de
+I_Transferencia_Disclaimer_1;1 - Regime de prevenção e repressão do branqueamento de capitais e do financiamento do terrorismo.
+I_Transferencia_Disclaimer_2;O Banco, nos termos da legislação em vigor (Regulamento (CE) nº 1781/2006...
+I_Transferencia_Disclaimer_3;poderá revelar a estes últimos a minha identidade bem como os detalhes da operação.
+I_Transferencia_Disclaimer_4;"validação da designação que indicar no campo: Nome do Beneficiário""."""
+A_teste123;teste123
+A_lbl_SaldoInsuficiente;Saldo insuficiente
+A_montante50E;
+A_DescritivoContaDestino;
+I_Coord_GerirAgendamentos_OpCtx_Remover;90:425
+I_250virg00_EUR;250,00 EUR
+A_BancoSantanderTottaSA;Banco Santander Totta S.A.
+A_valor1302;13,02
+A_lbl_DisclaimerPonto1_TC137242;
+A_lbl_DisclaimerPonto2_TC137242;
+A_IBAN_FR7613825002000450659908125;
+A_Montante20;20
+A_lbl_PoderaVerCustos;
+A_btn_Gmail;
+A_btn_Bluetooth;
+A_lbl_UmaVezQueDefiniu;
+A_lbl_Benef_Confiavel;
+A_Beneficiario2;Benef2
+A_Tel_9123456789;9123456789
+A_Tel_912345678;
+A_emailValido;a@a.com
+A_Montante1050;1050€
+A_valor111;
+A_codIrs_123456789999;1,23E+11
+A_NIF_SujeitoA;144748762
+A_btn_Sair;
+A_btn_dllOpcaoMEO;MEO/Serviço MEO
+A_btn_OpcaoNOS;
+A_ValorVod_750;7,50€
+A_btn_OpcaoVodafoneDireto;Vodafone Directo
+A_btn_OpcaoEscolaDigital;NOS Escola Digital
+A_btn_OpcaoViaCARD;ViaCard
+A_Valor_ViaCard;15,00 EUR
+A_ValorEstados_1550;1550
+A_Servicos_10620;
+A_percentagem_3;3%
+A_percentagem_15;
+A_percentagem25;
+A_percentagem_50;
+A_percentagem_100;
+A_btn_Sim;
+A_btn_Nao;
+A_rmtm740490;
+A_lbl_CANCELADO;
+A_lbl_RECUSADO;
+A_lbl_Insira;
+A_Valor8;8
+A_testeUnica;
+A_testeVarias;testeVarias
+A_testePagamento;
+A_lbl_NomeDoCartao;
+I_NumDias_40;40
+I_NISS_11290606979;11290606979
+I_Montante_WU_10;10
+I_Coord_Invest_REF_Back;26:47:00
+I_NumConta_45477337605;45477337605
+I_Montante_14virg20;14,2
+I_IBAN_200;200
+I_Coord_PontoNoGrafico;170:445
+I_Coord_CorpoPDF_PedirCartao;185:215
+I_IBAN_ErroTamanho;IBAN ou conta de destino inválida. O IBAN é iniciado por PT50 e no total tem 25...
+I_Coord_InputValorCartao_2;156:334
+I_Coord_TemplateCarregarImagem;59:597
+I_Coord_Aceitar_ListaPedidosCartao;100:300
+I_Coord_TerminarDepois_PedidoCartao;188:499
+I_8virg50_EUR;8,50 EUR
+i_5vig50_EUR;5,50 EUR
+I_30vig00_EUR;30,00 EUR
+I_EstadoJudiciais_Disclaimer_3;3. Por limitação do Sistema de Pagamentos Multibanco...
+A_Montante500;500
+A_lbl_Almost_finished;
+I_Precario_0EUR;Preçário: 0 EUR.
+I_12virg00_EUR;12,00 EUR
+I_Entidade_10620;10620
+I_NaoMexer;Nao mexer
+A_testePrePago;testePrePago
+A_CompreOnline;Compre online com segurança.
+I_ConfirmeAutorizeOperacao;Confirme e autorize a operação
+i_Coord_DiaPretendido;190:480
+I_AlterarOpcaoPagamento;Alterar opção pagamento
+I_100pcent;100%
+I_Coord_AlterarPercentagem;334:478
+I_PrePago;PrePago
+I_OSeuCodigoDeUtilizador;O seu Código de Utilizador
+I_OSeuCodigoMulticanal;O seu Código Multicanal
+A_Montante5000;
+A_lbl_Oops;
+i_CodigoAutorizacao_Simbolos;´º´º1!>!≤@±±±
+I_User_VMBM;VMBM037267 
+i_Coord_RegistoPosSMS;350:190
+I_Montante_200;200
+I_Coord_MBWAY_PosInserirValor;324:336
+I_RecusarOPedidoDe;Recusar o pedido de
+I_Montante_1600;1600
+I_Coord_MBWAY_AposPedidoEnviado;189:462
+I_NomeCartao_AAAA;AAAA
+I_12Meses;12 meses
+I_10virg00_EUR;10,00 EUR
+I_Nome;Nome
+A_lbl_SeguroDesativado;Seguro desativado
+A_NomePessoa_Seguros;Ana Costa
+A_NifPessoa_Seguros;285078550
+A_lbl_DeclaracaoParental;Declaração Parental
+A_NumTelStayON_Tudo5;555555555
+A_val_351;
+A_lbl_Pais;País
+A_NumStayOn_Tudo5_ComAsteriscos;*** *** 555
+A_NumStayOn_Origem_ComAsteriscos;*** *** 190
+A_Caracter_Mais;+
+A_Iban_ReinoUnido;GB11CHAS60924233214401
+A_Beneficiario_TesteMorada;TesteMorada
+A_Letra_T;T
+A_MoradaInvalida_Barra;/tes
+A_lbl_ExecucaoPagamento;Usado para validar a descrição no pagamento estado e judiciais
+A_lbl_LimitacaoSistemaPagamentos;Usado para validar a descrição no pagamento estado e judiciais
+A_lbl_TheFinalPayment;Usado para validar a descrição no pagamento estado e judiciais
+A_lbl_ThisPayment;Usado para validar a descrição no pagamento estado e judiciais
+A_lbl_DueToLimitations;Usado para validar a descrição no pagamento estado e judiciais
+a_lbl_Disclaimer2_AExecucaoDoPag;
+a_lbl_Disclaimer3_PorLimitacaoDoSistema;
+a_lbl_Disclaimer2_ThisPaymentIsSubject;2. This payment is subject to validation.
+a_lbl_Disclaimer3_DueToLimitations;
+A_lbl_SendCodeSMSNumber;
+I_Montante_8;8
+I_10vig00;10
+A_Valor10;
+I_Telemovel_Nos_Espacos;931 085 136
+I_NOS;NOS
+I_Telemovel_Meo_2;961738704
+I_9virg2;9,2
+A_lbl_FACTORING COMPLETO C REC;
+A_lbl_Timeline;Timeline
+I_123;123
+I_Telemovel_Lyca;920002004
+I_Telemovel_Moche;961738704
+I_Telemovel_Nos_2;934414141
+I_Montante_7virg80;7,8
+I_Telemovel_Nos_2_Espacos;934 414 141
+I_Montante_7virg80_EUR;7,80 EUR
+A_beneficiarioX;
+A_Valor0;0
+A_00000TC137007;00000TC137007
+A_TEL_967654321;967654321
+A_0AutomationTC162555;0AutomationTC162555
+A_0AutomationTC162555edit;0AutomationTC162555edit
+A_IBAN_PT50001800031606423002021;PT50001800031606423002021
+A_IBAN_PT50003500000000000019526;PT50003500000000000019526
+I_Telemovel_Nos_3;938053887
+A_TEL_9612345678;9612345678
+A_TEL_961234567;961234567
+I_Exchange rate for informational purpose;Exchange rate (for informational purpose)
+I_Total amount to debit;Total amount to debit
+I_IBAN_Suica_CH1908799927511262814;CH1908799927511262814
+I_VerificarCaracteres_Benef_1;..1
+I_VerificarCaracteres_Benef_2;.12
+I_VerificarCaracteres_Benef_3;/teste
+I_Your text cannot start or end with a slash;Your text cannot start or end with a slash
+I_VerificarCaracteres_Benef_4;teste/
+I_VerificarCaracteres_Benef_5;tes//te
+I_This operation costs;This operation costs
+I_We have sent the code by SMS;We have sent the code by SMS
+A_111doido;111doido
+A_00000CartaoBCPFree;00000CartaoBCPFree
+AAA;teste
+I_PaymentsWillOnlyBeCarried;Payments will only be carried out on the scheduled date if you've
+A_00000TC95102;00000TC95102
+A_lbl_InsiraMotanteSuperior5_2500;Insira um montante superior a 5,00 EUR e inferior a 2.500,00 EUR
+A_Valor4;
+A_Exchangerate;Exchange rate
+a_Total_amount_to_debit;Total amount to debit
+A_DebitCard;Debit Card
+A_Mobile_961323082;961323082
+A_Mobile_965507898;965507898
+A_Valor_10EUR;10,00 EUR
+A_Valor10EUR;10
+A_000SEPA;000 SEPA
+A_IBAN_FR8930001004680000405505778;FR8930001004680000405505778
+A_IBAN_FR8930001004680000405505778_ComEspacos;FR89 30001 00468 00004055057 78
+A_Name_0WTFfav;0WTFfav
+A_Mobile_935002518;935002518
+A_Enter_the_following_positions_Multichannel;Enter the following positions of your Multichannel Code
+I_12virg_00;12
+I_IBAN_001800031606423002020;1,80E+18
+I_IBAN_PT50001800031606423002020_ComEspaco;PT50 0018 0003 16064230020 20
+I_IBAN_123896496314062304896123423341234;1,24E+32
+I_IBAN_Error;IBAN or invalid destination account.
+I_TheFinalPaymentDate;1. The Final payment date is determined by yhe creditor.
+I_ThisPaymentIsSubject;2. This payment is subject to validation.
+I_DueToLimitationsOfTheMultibanco;3. Due to limitations of the Multibanco system, you
+I_Valor_123456;123456
+I_Valor_200000;200000
+A_11111TC108548;11111TC108548
+A_Operacao Santa;Operacao Santa
+A_Ref_120056728;120056728
+A_Ref_123456703;123456703
+I_ValorNiss_11096711528;11096711528
+I_PagamentoSegurancaSocial;Pagamento Segurança Social
+I_SeguroSocialVoluntario;Seguro social voluntário
+I_NISS_11290606979_ComEspacos;112 906 069 79
+I_Benf_11111bcabcabcabcabcabcabcabcabcabcabc123;11111bcabcabcabcabcabcabcabcabcabcabc123
+I_IBAN_PT50001800031606423002020;PT50001800031606423002020
+I_montante_16;16
+I_NomeImprimir_FranciscaVilela;Francisca Vilela
+A_Entidade10110;10110
+A_Ref_123456780;123456780
+A_REF_500000500;500000500
+A_Montante50000;50000
+A_1234567890_ComEspacos;123 456 789
+A_Valor_1234567;1234567
+A_00000TC136396;00000TC136396
+I_Ref_123456794;123456794
+I_Entidade_10110;10110
+I_Montante_45;45
+I_Se_fizer_um_pagamento_pontual_superior;Se fizer um pagamento pontual superior a 3% do valor em dívida, ..
+I_Se_fizer_um_pagamento_pontual_superior_a_3;Se fizer um pagamento do valor em dívida no extrato de 3% com um mínimo de 10 €
+I_Pode_fazer_um_pagamento_pontual;Pode fazer um pagamento pontual até às 18h do penúltimo dia útil 
+I_Valor_1234567;1234567
+I_12345_virg_00;12.345,00
+I_Ref_440100233;440100233
+I_Valor_0000;0
+I_Ref_440100230;440100230
+A_00000TCX;00000TCX
+A_961738704;961738704
+A_0_136523_SS;0_136523_SS
+A_NISS_10031344194;10031344194
+A_NISS_10031344194_ComEspacos;100 313 441 94
+A_Ref_765430108;765430108
+A_Montante7;700
+I_IBAN_PT50003300000000001784905;PT50003300000000001784905
+I_Valor_9;9
+I_Tel_912345678;912345678
+I_Teste123;Teste123
+A_Excel_netpac;Excel netpac
+A_Ref_NetPac_111111118;111111118
+A_Ref_SapoASDL_234931070;234931070
+A_VIACARD;VIACARD
+A_REF_MEO_CARD_12345678901;12345678901
+A_Austria;Austria
+A_IBAN_AT751400017910040596;AT751400017910040596
+I_Tel_937700084;937700084
+I_Email_migueladuartenoesiscom;miguel.a.duarte@noesis.com
+I_IBAN_AT751400017910040596;AT751400017910040596
+I_Valor_5_virg_50;5,5
+I_Esta_operacao_tem_um_custo_de;Esta operação tem um custo de
+I_1_Regime_de_prevencao_e_repressao;1 - Regime de prevenção e repressão 
+A_IBAN_PT50004590114024784976036;PT50004590114024784976036
+I_O_Banco_nos_termos_da_legislacao_em_vigor;O Banco, nos termos da legislação em vigor 
+I_podera_revelar_a_estes_ultimos;poderá revelar a estes últimos a minha identidade
+I_validacao_da_designacao;validação da designação que
+I_Coord_170_400;170:400
+I_Ref_123456786;123456786
+I_Tel_961738704;961738704
+I_Montante_8_virg_00;8
+I_CodAutorizacao_1231231231231;1,23E+12
+A_Tel_Vod_Vitamina_911666666;911666666
+A_0testeCarregamento;0testeCarregamento
+I_Tel_961738704_ComEspacos;961 738 704
+I_Coord_30_325;30:325
+I_NISS_10095206589;10095206589
+A_beneficiario_TC137069;beneficiario_TC137069
+A_IbanIniciadoPorPT50;O IBAN é iniciado por PT50 e no total tem 25 caracteres.
+A_ContaMilleniumBCPTemAte11;A conta Millennium bcp tem até 11 caracteres numéricos.
+I_Montante_5_virg_68;5,68
+I_IBAN_FR7613825002000450659908125;FR7613825002000450659908125
+I_Ref_103456779;103456779
+I_1_A_data_limite_de_pagamento;1. A data limite de pagamento é determinada pela entidade credora
+I_2_A_execucao_do_pagamento;2. A execução do pagamento fica condicionada à validação dos dados introduzidos. 
+I_3_Por_limitacao_do_Sistema_de_Pagamentos;3. Por limitação do Sistema de Pagamentos Multibanco, não é possível fazer Pagamentos 
+I_Ref_514199000002052;5,14E+14
+I_Ref_888888888;888888888
+I_Ref_021384481;21384481
+I_Indicativo_351;351
+I_Tel_910032190;910032190
+I_NumDoc_633421785;633421785
+I_MTCN_0029052524;29052524
+I_Valor_1;1
+I_Montante_15;15
+I_Taxa_de_cambio_meramente_indicativo;Taxa de câmbio (meramente indicativo)
+I_Total_a_debitar;Total a debitar
+I_Valor_1000;1000
+I_Ref_1136515811;1136515811
+I_Ref_113651581_ComEspaco;113 651 581
+I_Ref_2349310701;2349310701
+I_Ref_234931070_ComEspacos;234 931 070
+I_Ref_8888888881;8888888881
+I_Ref_888888888_ComEspacos;888 888 888
+I_Ref_5000005011;5000005011
+I_Ref_500000501_ComEspacos;500 000 501
+I_Montante_123455_virg_778;123455,778
+I_12345_virg_77;12.345,77
+I_Ref_198268023491;1,98E+11
+I_Ref_19826802349_ComEspacos;198 268 023 49
+I_Ref_191111118;191111118
+I_IBAN_315;315
+I_1111111;1111111
+I_Tel_935150523;935150523
+I_7_virg_55;7,55
+A_Ref_123456703_ComEspacos;123 456 703
+A_Ref_120056728_ComEspacos;120 056 728
+I_Tel_935150523_ComEspaco;935 150 523
+I_7_virg_55_EUR;7,55 EUR
+I_IBAN_PT50InvalidoInvalidoInvalido;PT50InvalidoInvalidoInvalido
+I_IBAN_PT50004550604007247376034;PT50004550604007247376034
+I_Montante_24;24
+I_IBAN_PT500018000316063869020151;PT500018000316063869020151
+I_IBAN_PT50001800031606386902015_ComEspacos;PT50 0018 0003 16063869020 15
+I_Montante_50000;50000
+I_12_virg_43;12,43
+A_ReferenciaCartoesBCPFree_ComEspacos;20 002 117
+I_Montante_5000;5000
+I_5_virg_000;5000
+A_montante_1555;1555
+A_Benf_00000TC137007;00000TC137007
+A_benef_2022;
+i_PasswordVPN_Goncalo;
+I_AppName_Capsule;com.checkpoint.CheckPoint-VPN.app
+a_dia18;
+I_Valor_1234;1234
+I_URLFirebase;https://appdistribution.firebase.google.com
+I_AppName_Safari;com.apple.mobilesafari
+Versao_Android_Fresh;
+Versao_Android_Update;
+Versao_Android_Base;
+I_Montante_20_vig_00;20
+A_valor_999999;
+i_99pt999vrg00;99.999,00
+A_10_EUR_DDL;
+I_5virg00;5
+I_IBAN_PT50001000003774094000105_espacos;PT50001000003774094000105
+I_Valor_20000;20000
+A_USER_Registo;
+I_IBAN_Internacional_26digitos;
+I_Ref_191111118_ComEspacos;
+Pagamentos_outro Ou Cartao;"cartao:1 ; outro:2"
+Pagamentos_outro Ou Cartao ANDROID;1= Card based 2=Account
+i_VersaoInicialApp_CEN1;Verão inicial a ser instalada no telemovel
+i_VersaoUpgradeApp_CEN1;Variavel versão a fazer upgrade
+A_Valor123458;123458
+i_VersaoUpgradeApp_CEN2;Verão inicial a ser instalada no telemovel
+xpto1;xpto1
+AUTOMATION_USERS_COUNT;Variavel para contabilizar USERS no scirpt validação de FLAGS na PSDC.
+WV millenniumQUA;
+VERSAO_Ciclica;guarda versão ciclica
+Variavel_teste_1234567;

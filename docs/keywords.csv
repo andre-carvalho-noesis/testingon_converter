@@ -1,0 +1,28 @@
+Keyword;description;parameter1;parameter2;parameter3;parameter4;parameter5;parameter6;parameter7;parameter8;parameter9;parameter10
+back;go back;;;;;;;;;;
+clear;clears input;Application;Page_name;Object_name;;;;;;;
+clearAndInput;"clears input and writes ""x""";Application;Page_name;Object_name;"""Value""";x;;;;;
+click;Clicks on screen;Application;Page_name;Object_name;;;;;;;
+elementExists;Validates a given element is present on screen;Application;Page_name;Object_name;;;;;;;
+elementNotExists;Validates a given element is not present on screen;Application;Page_name;Object_name;;;;;;;
+forceClick;Forces a click on screen;Application;Page_name;Object_name;;;;;;;
+input;"writes ""x""";Application;Page_name;Object_name;"""Value""";x;;;;;
+inputAndEnter;"writes ""x"" and presses ""Enter""";Application;Page_name;Object_name;"""Value""";x;;;;;
+isDisabled;Validates a given element is disabled;Application;Page_name;Object_name;;;;;;;
+isDisplayed;Validates a given element is displayed on screen;Application;Page_name;Object_name;;;;;;;
+isEnabled;Validates a given element is enabled;Application;Page_name;Object_name;;;;;;;
+noReset;Initialization of an automated test (1st step);;;;;;;;;;
+objectSwipe;Swipes from an object;Direction;Application;Page_name;Object_name;Speed;;;;;
+openApp;Opens an installed APP;Application;;;;;;;;;
+pageContainsText;"Validates a page contains text ""x""";"""Value""";x;;;;;;;;
+pageNotContainsText;"Validates a page does not contain text ""x""";"""Value""";x;;;;;;;;
+pressAndHold;"Performs a tap and hold for ""x"" seconds on screen";Application;Page_name;Object_name;"""Value""";x;;;;;
+scrollToElement;Scrolls untill a given element is on screen;Application;Page_name;Object_name;;;;;;;
+storeObjectsText;"Stores text ""x"" as object's value";Application;Page_name;Object_name;"""Value""";x;;;;;
+swipe;Emulates swipe on screen;Direction;Speed;;;;;;;;
+switchContextToNative;Switches context to native app;;;;;;;;;;
+switchContextToWebViewByName;Switches context to millenium app web view;"""testingON Variable""";"""WV millenniumQUA""";;;;;;;;
+waitForElementToDisappear;Waits for element to disapear;Application;Page_name;Object_name;;;;;;;
+waitForObject;Waits for object to be present on screen;Application;Page_name;Object_name;;;;;;;
+waitForSeconds;"wait for ""x"" seconds";"""Value""";x;;;;;;;;
+waitForText;"wait for text ""x"" to be present on screen";"""Value""";x;;;;;;;;
